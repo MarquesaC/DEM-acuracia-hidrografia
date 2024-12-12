@@ -33,3 +33,6 @@ Até este momento trataremos e extraimos os dados dos arquivos obtidos, mas para
 # Análise dos dados
 Para esta etapa iremos começar a analisar os dados obtidos através do geoprocessamento, assim, utilizaremos o EXCEL
 Em um arquivo excel iremos compilar os dados para a análise, para acessar os dados do nosso passo do item 10, temos que ir em abrir aquivo do excel e na janela de pastas dos nossos processamentos no computador, escolher o tipo de arquivo [.dbf] para abrir. Assim que abrir selecionaremos a coluna área e copiaremos para o nosso excel para começar a análise das áreas. Sendo o DEM com menor área como a mais próxima da hidrografia real, portando podendo considerar como o DEM que tem a morfologia mais próxima do real da microbacia urbana.
+
+# Contato
+Para mais informações entre em contato marquesachang.mc@gmail.com 
