@@ -2,7 +2,9 @@
 Modelo Digital de Elevação _ extração da hidrografia
 Este processo tem intenção de trabalhar com a acurácia de dados de satélite, através da extração da hidrografia, identificar o Modelo Digital de Elevação que tenha maior acurácia/ maior proximidade com a mofologia do terreno com a microbacia urbana Gregório do município de São Carlos- SP.
 
-Observação importante: para cada passo de processamento é necessário salvar no arquivo da pasta para que posteriormente tenha a possibilidade de extrair os dados.
+Observações:
+1. Para cada passo de processamento é necessário salvar no arquivo da pasta para que posteriormente tenha a possibilidade de extrair os dados.
+2. Os arquivos principais (iniciais e finais do geoprocessamento) estão disponíveis nas pastas deste repositório.
 
 # A coleta de dados
 Uma das relevâncias de trabalhar com imagens de satélite ou sensoriamento remoto é que o processo otimiza o tempo e custos para obter um estudo ou resultado de produtos.
