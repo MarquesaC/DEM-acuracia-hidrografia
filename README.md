@@ -1,4 +1,4 @@
-# DEM e acurácia através da hidrografia
+# DEM e sua acurácia através da hidrografia
 Modelo Digital de Elevação _ extração da hidrografia
 Este processo tem intenção de trabalhar com a acurácia de dados de satélite, através da extração da hidrografia, identificar o Modelo Digital de Elevação que tenha maior acurácia/ maior proximidade com a mofologia do terreno com a microbacia urbana Gregório do município de São Carlos- SP.
 
