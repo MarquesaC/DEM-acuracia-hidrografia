@@ -14,6 +14,12 @@ Os modelos digitais de elevação gratuitos e globais, na resolução espacial d
 2. Ao selecionar os modelos dentro do plugin [Open Topography DEM Downloader] é interessante delimitar a extensão para a área de estudo pelo arquivo de vetor [Gregório] disponibilizado neste mesmo repositório.
 3. No final dos processos os dados se encontrarão em formato raster, prontos para serem trabalhados. Os mesmos se encontram disponíveis no repositório.
 
+Um pouco das características e diferenças entre os Modelos Digitais de Elevação: 
+SRTM - O Shuttle Radar Topography Mission, tem o seu modelo digital de elevação obtido através de imagem de radar com os painéis da antena em banda X e banda C. As medições ocorreram de 11 a 22 de fevereiro de 2000.
+ALOS - A bordo do Advanced Land Observing Satellite, foram coletadas imagens usando Panchromatic Remote -sensing Instrument for Stereo Mapping (PRISM). A coleta de dados ocorreu de 2006 a 2011. 
+NASADEM - O produto do NASA DEM é um aprimoramento do SRTM sem emendas e eliminação dos vazios.
+COPERNICUS - Copernicus DEM é um Modelo Digital de Superfície (DSM) que representa a superfície da Terra, incluindo edifícios, infraestrutura e vegetação. Os dados foram adquiridos por meio da missão TanDEM-X entre 2011 e 2015. 
+
 # Limpeza dos dados e transformação dos dados
 Para esta etapa os dados precisam passar por alguns tratamentos, se tratando de imagem de satélite como um MDE, é importante estar atendo aos valores que cada pixel carrega e elimnar possíveis dados falsos ou células [no data].
 Para este processo de limpeza e extração dos dados, continuaremos com o software QGIS 3.34 utilizando a barra de ferramentas localizados na parte superior da janela do software e também é necessário instalar o complemento do GRASS para utilização em alguns processos específicos.
